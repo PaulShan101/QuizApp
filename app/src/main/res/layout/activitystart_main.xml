@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".StartPage">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/animation_images"
+        android:scaleType="centerCrop" />
+
+    <LinearLayout
+        android:id="@+id/overlay_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/color_animation"
+        android:gravity="top"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/Quiz_btn2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_gravity="center"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/button_custom"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="Champions League Facts"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/premierleague"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_custom"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="Premier League Facts"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/WorldCup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_custom"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="World Cup Facts"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/championsleague"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_custom"
+            android:text="Quizzes"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/onlinequiz"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_custom"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="Online Quizzes"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/footballquizzer"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="60dp"
+            android:gravity="center"
+            android:text="@string/footballquizzer"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="36sp"
+            android:textStyle="bold|italic" />
+
+    </LinearLayout>
+
+</RelativeLayout>

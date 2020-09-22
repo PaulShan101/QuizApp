@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.QuizApp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/gerplayer"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/gerplayer"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".StartPage"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme"
+            android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+    <activity android:name=".StartPageView"></activity>
+    <activity android:name=".StartPageImages"></activity>
+
+        <activity
+        android:name=".QuizQuestionsActivity"
+        android:screenOrientation="portrait" />
+
+        <activity
+        android:name=".QuizQuestionsActivity2"
+        android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".QuizQuestionsActivity3"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".QuizQuestionsActivity4"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" />
+
+
+
+        <activity
+        android:name=".SecondConstraintSet"
+        android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".SecondConstraintSet1"
+            android:screenOrientation="portrait" />
+
+        <activity
+        android:name=".SecondConstraintSet2"
+        android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".SecondConstraintSet3"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".SecondConstraintSet4"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".PremierLeagueSet1"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".MainQuizPage"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".OnlineQuiz"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".Fragment"
+            android:screenOrientation="portrait" />
+
+
+        <activity android:name=".ResultActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
+
+
+    <activity android:name=".ResultActivity2"
+        android:screenOrientation="portrait"
+        android:theme="@style/NoActionBarTheme" />
+
+        <activity android:name=".ResultActivity3"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
+
+        <activity android:name=".ResultActivity4"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme" />
+
+        <activity
+            android:name=".HomeFragment"
+            android:screenOrientation="portrait" />
+
+      <activity
+            android:name=".MainWorldCup"
+            android:screenOrientation="portrait" />
+
+
+
+
+
+
+    </application>
+</manifest>

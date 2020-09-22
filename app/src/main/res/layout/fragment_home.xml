@@ -1,0 +1,37 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pic1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.QuizApp.HomeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#080D29"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/history_cl"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:foregroundGravity="center"
+            android:text="@string/history_cl1"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/champsl" />
+
+    </LinearLayout>
+
+
+</FrameLayout>

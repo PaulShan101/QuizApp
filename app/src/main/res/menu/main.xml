@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home_1"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/cl_1"
+        android:title="@string/champions_league1" />
+    <item
+        android:id="@+id/pl_1"
+        android:title="@string/premier_league1" />
+    <item
+        android:id="@+id/wc_1"
+        android:title="@string/world_cup1" />
+    <item
+        android:id="@+id/qz_1"
+        android:title="@string/quizzes1" />
+    <item
+        android:id="@+id/onq_1"
+        android:title="@string/online_quizzes1" />
+</menu>

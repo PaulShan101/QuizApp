@@ -1,0 +1,168 @@
+<resources>
+    <string name="app_name">Football Quizzer</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">Please enter your name.</string>
+    <string name="name">Name</string>
+    <string name="start">Start</string>
+    <string name="result">Result</string>
+    <string name="image">image</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="finish">FINISH</string>
+
+    <string name="submit">SUBMIT</string>
+
+    <string name="mars_image">mars</string>
+    <string name="mars_text_view">Mars</string>
+    <string name="mars_text_description">Mars is the fourth planet from the Sun and the second-smallest planet in the
+        Solar System after Mercury. In English, Mars carries a name of the Roman god of war, and is often referred to as
+        the \"Red Planet\"[15][16] because the reddish iron oxide prevalent on its surface gives it a reddish appearance
+        that is distinctive among the astronomical bodies visible to the naked eye.[17] Mars is a terrestrial planet
+        with a thin atmosphere, having surface features reminiscent both of the impact craters of the Moon and the
+        valleys, deserts, and polar ice caps of Earth. The rotational period and seasonal cycles of Mars are likewise
+        similar to those of Earth, as is the tilt that produces the seasons. Mars is the site of Olympus Mons, the
+        largest volcano and second-highest known mountain in the Solar System, and of Valles Marineris, one of the
+        largest canyons in the Solar System. The smooth Borealis basin in the northern hemisphere covers 40% of the
+        planet and may be a giant impact feature.[18][19] Mars has two moons, Phobos and Deimos, which are small and
+        irregularly shaped. These may be captured asteroids,[20][21] similar to 5261 Eureka, a Mars trojan.
+    </string>
+    <string name="title_text_string"></string>
+    <string name="sillicon_text_desc_string"></string>
+    <string name="desc_string">The Premier League, often referred to as the English Premier League or the EPL outside England, is the top level of the English football league system. Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League.
+        .
+    </string>
+
+
+    <string name="success_text_view">Success</string>
+    <string name="target_number_text_view">your number is %d</string>
+
+    //questions
+    <string name="first_question">Is your number 5?</string>
+    <string name="second_question">Is your number 3?</string>
+    <string name="third_question">Is your number 2?</string>
+    <string name="fourth_question">Is your number 1?</string>
+    <string name="fifth_question">Is your number 4?</string>
+    <string name="sixth_question">Is your number 7?</string>
+    <string name="seventh_question">Is your number 6?</string>
+    <string name="eight_question">Is your number 9?</string>
+    <string name="nineth_question">Is your number 8?</string>
+    <string name="ten_question">Is your number 10?</string>
+
+    <string name="reset_button_string">reset</string>
+    <string name="start_button_string">start</string>
+    <string name="todo">TODO</string>
+    <string name="quiz_2">Quiz_2</string>
+    <string name="activity">Activity</string>
+    <string name="desc_string1"> Players with an X in their name that have won a Premier leauge winners medal</string>
+    <string name="premierleague">X marks the spot</string>
+    <string name="substring1">1.  Jason Wilcox\n
+                               2.  Graham le saux\n
+                               3.  Lee Dixon\n
+                               4.  Alexander Buttner\n
+                               5.  Alex Manniger\n
+                               6. Alexy Smertin\n
+                               7. Alex\n
+                               8. Xherdan Shaqiri\n
+                               9. Trent Alexander-Arnold\n
+                               10. Alex Oxlade-Chamberlain
+    </string>
+    <string name="champions_league">Champions League</string>
+    <string name="kits_badges">Kits/Badges</string>
+    <string name="premier_league">Premier League</string>
+    <string name="world_cup1">World Cup</string>
+    <string name="next4">NEXT</string>
+    <string name="desc_string4">Players who have a winners medal as a manager and a player and to also score a hat trick in the Premier league</string>
+    <string name="title_text_string4">Premier League</string>
+    <string name="sillicon_text_desc_string4">\tMark Hughes\n
+    \tOle Gunnar Sjoskear\n
+    \tAlan Shearer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Home">Home</string>
+    <string name="goals">Goals</string>
+    <string name="players">Players</string>
+    <string name="apps">Apps</string>
+    <string name="history">History</string>
+    <string name="home">Home</string>
+    <string name="goals1">GOALS</string>
+    <string name="history1">HISTORY</string>
+    <string name="players1">PLAYERS</string>
+    <string name="apps1">APPS</string>
+    <string name="test">Test</string>
+    <string name="pic">TODO</string>
+    <string name="champions_league_quiz">Champions League Quiz</string>
+    <string name="champions_league1">Champions League</string>
+    <string name="premier_league1">Premier League</string>
+
+    <string name="quizzes1">Quizzes</string>
+    <string name="online_quizzes1">Online Quizzes</string>
+    <string name="premier_leauge">Premier Leauge</string>
+    <string name="world_cup">World Cup</string>
+    <string name="foreign_players">Foreign players</string>
+    <string name="premier_league_shirt_sponsors">Premier League Shirt Sponsors</string>
+    <string name="premier_league_squad_numbers">premier league Squad Numbers</string>
+    <string name="deschome">that is distinctive among the astronomical bodies visible to the naked eye.[17] Mars is a terrestrial planet
+        with a thin atmosphere, having surface features reminiscent both of the impact craters of the Moon and the
+        valleys, deserts, and polar ice caps of Earth. The rotational period and seasonal cycles of Mars are likewise
+        similar to those of Earth, as is the tilt that produces the seasons. Mars is the site of Olympus Mons, the
+        largest volcano and second-highest known mountain in the Solar System, and of Valles Marineris, one of the
+        largest canyons in the Solar System. The smooth Borealis basin in the northern hemisphere covers 40% of the
+        planet and may be a giant impact feature.[18][19] Mars has two moons, Phobos and Deimos, which are small and
+        irregularly shaped. These may be captured asteroids,[20][21] similar to 5261 Eureka, a Mars trojan.</string>
+    <string name="descplayers"> 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </string>
+    <string name="zplayers">zplayers</string>
+    <string name="zplayersmain">Players with Z in their Name to Score a Premier legaue Hat trick</string>
+    <string name="zplayerssub">\t1..Gianfranco Zola\n
+    2..Carlos tevez\n
+    3..Fabrizio Ravinelli\n
+        4. Maxi Rodríguez\n
+        5. Edin Džeko\n
+        6. Luis Suárez\n
+        7. Jordi Gómez\n
+        8. Santi Cazorla\n
+        9. Eden Hazard\n
+        10. Riyad Mahrez\n
+        11. Alexis Sánchez\n
+        12. Ayoze Pérez
+
+
+    </string>
+
+    <string name="managermain">Managers of the season never to win a Premier league</string>
+    <string name="managersub">\tHarry Rednapp\n
+        George Burley\n
+        Alan Pardew\n
+        Tony Pullis
+    </string>
+    <string name="manager"></string>
+    <string name="online_info1">These are a list of Quizzes that your score will be stored online</string>
+    <string name="history_cl1">The UEFA Champions League came about as a new version of the European Cup and was played for the first time in the 1992-1993 season. Already established as the most prestigious club tournament in football, Champions League has become even more popular with the introduction of a mini-league group stage system.</string>
+    <string name="clgoals">1..Cristiano Ronaldo	130\n
+    2..Lionel Messi	115\n
+    3..Raúl	71\n
+    4..Robert Lewandowski	68\n
+        5..Ruud van Nistelrooy	56
+    </string>
+    <string name="top5goal">ALL TIME TOP 5 GOALSCORERS</string>
+    <string name="top5apps">ALL TIME TOP 5 APPERANCES</string>
+    <string name="clapps">1..Iker Casillas  177\n
+    2..Cristiano Ronaldo  170\n
+    3..Xavi  151\n
+    4..Lionel Messi  143\n
+    5..Raul 142</string>
+    <string name="clwinners">1..Real Madrid 13\n
+    2..AC Milan 7\n
+    3..Liverpool  6\n
+    4..Bayern Munchen  6\n
+    5..Barcelona  5</string>
+    <string name="top5winners">ALL TIME TOP 5 WINNERS</string>
+    <string name="footballquizzer">FOOTBALL QUIZZER APP</string>
+    <string name="desc_string5">The Premier League, often referred to as the English Premier League or the EPL outside England, is the top level of the English football league system. Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League.
+
+</string>
+    <string name="prem2">Founded: February 20, 1992</string>
+    <string name="prem3">prem3</string>
+    <string name="back">Back</string>
+    <string name="screentap">TAP THE SCREEN</string>
+    <string name="screentap2">TAP THE SCREEN</string>
+
+</resources>
